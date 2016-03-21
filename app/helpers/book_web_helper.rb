@@ -1,0 +1,2 @@
+module BookWebHelper
+end
